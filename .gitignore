@@ -1,0 +1,24 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# SQLite database and private records
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Generated email logs
+email_logs/
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+
+========================================
+       HOTEL BOOKING CONFIRMATION
+========================================
+
+Dear Swetha,
+
+Your hotel booking has been confirmed!
+
+Booking ID: 2
+Room Number: 303
+Room Type: Suite
+Bed Type: Double
+
+Check-in: 2026-11-20
+Check-out: 2026-11-22
+Number of Nights: 2
+Number of Guests: 3
+
+Price per Night: Rs. 7000.0
+Total Amount: Rs. 14000.0
+
+Breakfast Included: True
+
+Guest Email: sweshinisankar@gmail.com
+
+Thank you for choosing our hotel!
+
+We look forward to welcoming you.
+
+========================================
